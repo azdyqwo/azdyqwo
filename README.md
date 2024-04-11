@@ -13,21 +13,5 @@ My name is **azQAQ** , A junior high school student who is about to graduate.
 - <p><audio controls="controls"><source src="https://www.ikunmc.com/rsaudio" type="audio/mp3" />
 Your browser does not support this audio format.</audio></p>
   <div class="mdui-img-circle aui-sam-img">
-    <img src="https://www.jsdelivr.ren/gh/azdyqwo/my-website@main/static/img/smirking.jpg" alt="avatar" height="50px">
+    <img src="https://avatars.githubusercontent.com/u/98631152?v=4" alt="avatar" height="50px">
 </div>
-<style>
-    .aui-sam-img {
-    width: 100px;
-    height: 100px;
-    margin: auto;
-}
-    .aui-sam-img img {
-        object-fit: cover;
-        width: 100%;
-        height: 100%;
-        display: inline-block;
-        border: none;
-        border-radius: 10px;
-        border-radius: 50%;
-    }
-</style>
