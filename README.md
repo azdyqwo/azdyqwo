@@ -1,17 +1,11 @@
-### Hello 😊 
-My name is **azQAQ** , A junior high school student who is about to graduate.
-- ❤️ Hobby: Build website 🌐 , Play games 🎮, Computer 🖥️ 
-- 🌏 Location: Fujian,Mainland China 🇨🇳
-- 🗣️ Language: Chinese and English 
-- 🗨️ Contact: Email ✉️(shiwin7junya@126.com)
-- 🎮 What games do I play: Minecraft, Eggy Party
-- 🛌 Free time: UTC+08:00 Monday to Friday 12:50-13:30, 18:40-23:00, Saturday and Sunday
-- 🌐 Website: [ikunMC Forum](https://www.ikunmc.com), [azQAQ Blog](https://blog.ikunmc.com), [ikun game](https://eatkun.ikunmc.com), [3D Totem](https://3dtotem.azqaq.top),[Personal website](https://azqaq.top)
-- 😄 What can I do: Sorry I can't help you right now.
-- More...
+This is azQAQ's Github profile
 
-- <p><audio controls="controls"><source src="https://www.ikunmc.com/rsaudio" type="audio/mp3" />
-Your browser does not support this audio format.</audio></p>
-  <div class="mdui-img-circle aui-sam-img">
-    <img src="https://avatars.githubusercontent.com/u/98631152?v=4" alt="avatar" height="50px">
-</div>
+My websites (The main language is Chinese): [Minecraft KunMC Forum](https://www.ikunmc.com) 、[Blog](https://blog.ikunmc.com)、[Personal](https://azqaq.cat)
+
+只因你太美 lyrics: ![只因你太美](https://9ng.cn/jbMS)
+
+[Random audios](https://player.klpbbs.com/player?url=https://www.ikunmc.com/ra)
+
+__**A piece of advice from Otomader**__
+
+![Shibamata](https://img.azqaq.cat/i/2024/06/22/1719028357.png)
