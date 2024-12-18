@@ -1,11 +1,8 @@
-This is azQAQ's Github profile
+你好，这里是我的 GitHub 个人空间！
 
-My websites (The main language is Chinese): [Minecraft KunMC Forum](https://www.ikunmc.com) 、[Blog](https://blog.ikunmc.com)、[Personal](https://azqaq.cat)
+我的网站: 
+[MCNeko 中文论坛](https://www.mcneko.com) 
+[博客](https://blog.mcneko.com)
+[个人](https://azqaq.top)
 
-只因你太美 lyrics: ![只因你太美](https://9ng.cn/jbMS)
-
-[Random audios](https://player.klpbbs.com/player?url=https://www.ikunmc.com/ra)
-
-__**A piece of advice from Otomader**__
-
-![Shibamata](https://img.azqaq.cat/i/2024/06/22/1719028357.png)
+[随机音MAD音频](https://player.mcneko.com/player?url=https://www.mcneko.com/ra)
